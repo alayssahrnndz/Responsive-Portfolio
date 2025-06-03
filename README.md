@@ -22,6 +22,7 @@ A modern, responsive portfolio showcasing my work. Built with vanilla **HTML5**,
 git clone https://github.com/alayssahrnndz/portfolio-website.git
 cd portfolio-website
 # Right-click index.html → Open with Live Server
+# Portfolio will run at: http://127.0.0.1:5500/index.html
 # Or simply open index.html in your browser
 ```
 
