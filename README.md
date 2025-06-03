@@ -1,6 +1,13 @@
 # **🌟 Portfolio Website**
 A modern, responsive portfolio showcasing my work. Built with vanilla **HTML5**, **CSS3**, and **JavaScript** featuring beautiful purple gradients and smooth animations.
 
+![image](https://github.com/user-attachments/assets/6d32c5d1-95df-4916-84b6-e3ac2ce74ba2)
+![image](https://github.com/user-attachments/assets/9c9096ae-23be-427f-8c71-c8bfea16cf5b)
+![image](https://github.com/user-attachments/assets/fb53df51-f4f1-4d17-9a90-486b3434fa98)
+![image](https://github.com/user-attachments/assets/ef86a301-f6d2-4564-9539-6be04bfce8ed)
+
+
+
 ## **✨ Features**
 * 🎨 **Modern Design** – Purple gradient theme with glassmorphism effects
 * 📱 **Fully Responsive** – Optimized for desktop, tablet, and mobile
