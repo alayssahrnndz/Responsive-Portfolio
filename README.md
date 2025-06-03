@@ -1,5 +1,5 @@
 # **🌟 Portfolio Website**
-A modern, responsive portfolio showcasing my work as a **Web Developer & UI/UX Designer**. Built with vanilla **HTML5**, **CSS3**, and **JavaScript** featuring beautiful purple gradients and smooth animations.
+A modern, responsive portfolio showcasing my work. Built with vanilla **HTML5**, **CSS3**, and **JavaScript** featuring beautiful purple gradients and smooth animations.
 
 ## **✨ Features**
 * 🎨 **Modern Design** – Purple gradient theme with glassmorphism effects
