@@ -62,8 +62,8 @@ portfolio-website/
 * Hover effects and animations
 
 **📂 Projects**
-* **Cash Elan Mobile Bank** – Secure banking app with React Native
-* **Hanap-Kita Job Portal** – Job matching system with React & MongoDB
+* **Cash Elan Mobile Bank** – Secure banking app with React Native Expo
+* **Hanap-Kita Job Portal** – Job matching system with React & mySQL
 * **AI School Services Chatbot** – Educational AI with Python & NLP
 * **AI Clone Chatbot** – Personality cloning with OpenAI & ML
 
